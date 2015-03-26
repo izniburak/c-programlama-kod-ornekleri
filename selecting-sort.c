@@ -6,7 +6,7 @@ selecting sort metodunu kullanarak büyükten küçüğe sıralayan program.
 #include <stdio.h>
 #include <stdlib.h>
 
-#define BOYUT 5
+#define BOYUT 10
 int main()
 {
     int array[BOYUT];
